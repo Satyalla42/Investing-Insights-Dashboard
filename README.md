@@ -2,7 +2,8 @@
 
 A full-stack Flask application that collects, stores, and visualizes financial data for stocks, ETFs, and cryptocurrencies — built to empower data-driven investment decisions.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6e254268-6878-4e7a-b372-5fd006dddf79)
+
 
 
 ---
