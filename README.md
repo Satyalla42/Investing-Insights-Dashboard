@@ -49,17 +49,12 @@ A full-stack Flask application that collects, stores, and visualizes financial d
 
 ## ▶️ Running the App
 1. Fetch Data
-bash
-Kopieren
-Bearbeiten
-python main3.py
+- python3 main3.py
 
 2. Launch Flask Server
-bash
-Kopieren
-Bearbeiten
-python app.py
-Navigate to http://localhost:5000 in your browser.
+- python3 app.py
+
+3. Navigate to http://localhost:5000 in your browser.
 
 
 
