@@ -25,7 +25,7 @@ A full-stack Flask application that collects, stores, and visualizes financial d
   - 30-day volatility
   - High/Low price
   - Average volume
-- Download filtered data as CSV
+
 
 ---
 
