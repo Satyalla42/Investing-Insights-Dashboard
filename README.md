@@ -42,16 +42,8 @@ A full-stack Flask application that collects, stores, and visualizes financial d
 ---
 
 ## 📂 Project Structure
-📦 investing-insights/
-├── app.py # Flask app with routes
-├── main3.py # Data fetching & PostgreSQL ETL
-├── static/
-│ ├── css/style.css
-│ └── js/main.js
-├── templates/
-│ └── index.html
-├── cleaned_tickers.csv # Input tickers with asset types
-└── requirements.txt
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/d28b7a2b-7c5d-4295-abd2-98b8479bc846" />
+
 
 
 
