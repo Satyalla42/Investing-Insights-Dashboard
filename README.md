@@ -62,3 +62,6 @@ A full-stack Flask application that collects, stores, and visualizes financial d
 
 - Backend hosted on AWS EC2
 - Database managed via AWS RDS (PostgreSQL)
+
+![image](https://github.com/user-attachments/assets/4b8affad-bb98-401d-8c1e-c0a1b77818b4)
+
